@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Confluence InfoTech Solutions](https://www.confluenceinfotechsolutions.in)**
+- 🔭 If you wish to learn more about me view my **[portfolio](https://hariprasathys.netlify.app/)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
